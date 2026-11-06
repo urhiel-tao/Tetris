@@ -55,7 +55,7 @@ Tetris/
 2. Entrar a la carpeta del proyecto. Este paso es importante: `main.py` está dentro de `Tetris`, no en la carpeta de usuario.
 
 ```bash
-git clone https://github.com/Uri46/Tetris.git
+git clone https://github.com/urhiel-tao/Tetris.git
 cd Tetris
 ```
 
@@ -97,7 +97,7 @@ En Windows PowerShell, el flujo completo sería:
 
 ```powershell
 cd C:\Users\uriel
-git clone https://github.com/Uri46/Tetris.git
+git clone https://github.com/urhiel-tao/Tetris.git
 cd Tetris
 python -m venv .venv
 .\.venv\Scripts\activate
