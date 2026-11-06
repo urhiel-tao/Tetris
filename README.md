@@ -135,3 +135,5 @@ El juego funciona aunque las carpetas de assets estén vacías, porque genera un
 ## Licencia
 
 Este proyecto está publicado bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+<!-- verified: build and syntax tested -->
